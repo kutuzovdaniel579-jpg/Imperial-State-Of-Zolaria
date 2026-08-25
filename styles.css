@@ -1,0 +1,32 @@
+body{
+  padding: 25px;
+  background-image: url('https://i.postimg.cc/d3RjjtH1/website-BG.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.welcome {
+  color: #2268c5;
+  position: absolute;
+  place-self: center;
+  top:25%
+}
+
+.ft1 {
+  color: gray;
+  position: fixed;
+  bottom: 0;
+  right: 10px;
+}
+
+.flag {
+  position: absolute;
+  top:auto
+  left 10px
+}
+
+.symbol {
+  position: absolute; 
+  top:auto;
+  right: 10px;
+}
