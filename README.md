@@ -3,4 +3,6 @@ Welcome to the open-source website of the fanmade Comocratic party "Belgian Como
 Note that this is an fictional political party and does not affiliate with Belguim or Flanders
 
 
-Currently main focus is on functionality afterwards stable versions will get released
+#
+Currently my main focus is to add functionality (optimized for pc)
+Later on i'll add mobile support and polish it
